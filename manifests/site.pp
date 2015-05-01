@@ -3,7 +3,7 @@ node default {
   include google_chrome
 
   class { 'packer': install_dir => '/usr/local/bin', version => '0.7.5' }
-  class { 'people': user   => reppard }
+  class { 'people': user   => jbruce }
   class { 'rbenv':  latest => true }
   class { 'vagrant': }
   class { 'nodejs':
