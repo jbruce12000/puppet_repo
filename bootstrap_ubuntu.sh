@@ -1,4 +1,6 @@
 #!/bin/bash
+set -e
+set -x
 
 # Install system deps for puppet stuffs
 sudo apt-get install -y puppet ruby ruby-dev wget unzip
