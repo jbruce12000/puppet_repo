@@ -5,7 +5,7 @@ forge "https://forgeapi.puppetlabs.com"
 
 mod 'puppetlabs-apt', :git => 'https://github.com/puppetlabs/puppetlabs-apt.git'
 mod 'huskycode-vim',  :git => 'https://github.com/huskycode/puppet-huskycode-vim.git'
-mod 'reppard-people', :git => 'https://github.com/reppard/puppet-people.git'
+mod 'puppet-people', :git => 'https://github.com/jbruce12000/puppet-people.git'
 mod 'reppard-packer', :git => 'https://github.com/reppard/puppet-packer.git'
 mod 'jamesnetherton-google_chrome'
 mod 'willdurand-nodejs'
