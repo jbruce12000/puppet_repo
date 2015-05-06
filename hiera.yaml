@@ -1,0 +1,4 @@
+# examples of variables used by people module
+people::user: "jbruce"
+people::gituser: "jbruce12000"
+people::passwd: ""
