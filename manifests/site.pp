@@ -36,6 +36,7 @@ node default {
       'tmux',
       'openssh-server',
       'tig',
+      'virtualbox-nonfree',
       'xclip',
     ]:
   }
