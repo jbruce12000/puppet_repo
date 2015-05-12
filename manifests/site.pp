@@ -29,6 +29,8 @@ node default {
   package {
     [
       'ack-grep',
+      'checkinstall',
+      'nmap',
       'findutils',
       'tar',
       'tmux',
