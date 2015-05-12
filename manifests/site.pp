@@ -35,7 +35,8 @@ node default {
       'tar',
       'tmux',
       'openssh-server',
-      'tig'
+      'tig',
+      'xclip',
     ]:
   }
 }
