@@ -32,6 +32,7 @@ node default {
       'checkinstall',
       'nmap',
       'findutils',
+      'libxml2-utils',
       'tar',
       'tmux',
       'openssh-server',
