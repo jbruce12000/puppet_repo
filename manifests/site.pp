@@ -28,6 +28,7 @@ node default {
   }
   package {
     [
+      'awscli',
       'ack-grep',
       'checkinstall',
       'nmap',
