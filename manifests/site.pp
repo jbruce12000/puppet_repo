@@ -31,6 +31,7 @@ node default {
       'awscli',
       'ack-grep',
       'checkinstall',
+      'keepassx',
       'nmap',
       'findutils',
       'libxml2-utils',
