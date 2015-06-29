@@ -35,6 +35,7 @@ node default {
       'nmap',
       'findutils',
       'libxml2-utils',
+      'pdftk',
       'tar',
       'tmux',
       'openssh-server',
